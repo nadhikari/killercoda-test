@@ -1,0 +1,13 @@
+{
+  "title": "Ubuntu 4GB Test",
+  "description": "Test Ubuntu 24.04 with 4GB RAM on Killercoda",
+  "details": {
+    "intro": {
+      "text": "intro.md"
+    }
+  },
+  "backend": {
+    "imageid": "ubuntu-4GB"
+  }
+}
+
