@@ -1,2 +1,2 @@
-# Ubuntu 4GB Test
+# Ubuntu 4GB VM
 
