@@ -1,6 +1,6 @@
 {
-  "title": "Ubuntu 4GB Test",
-  "description": "Test Ubuntu 24.04 with 4GB RAM on Killercoda",
+  "title": "Ubuntu 4GB VM",
+  "description": "Ubuntu 24.04 with 4GB RAM on Killercoda",
   "details": {
     "intro": {
       "text": "intro.md"
